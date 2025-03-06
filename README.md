@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Oi eu sou o Symon Breno, futuro desenvolvedor de software!
+## Oi eu sou o Symon Breno, desenvolvedor de software!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Symon-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
